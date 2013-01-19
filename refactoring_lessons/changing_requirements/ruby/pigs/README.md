@@ -1,4 +1,5 @@
-== Pig Latin Translator
+Pig Latin Translator
+======
 The pig_latin.rb file translates english words to pig latin. As well as pig latin we now would like the same code to translate to pig pirate. Pig Pirate adds arr to the end of each word instead of ay. Pig Pirate also has these special word/phrase translations:
 
       | hello            | "Ahoy matey!"            |
